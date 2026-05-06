@@ -1,2 +1,2 @@
-# lintsiappi.github.io
+# Lintsiäppi Tietosuojaseloste
 Lintsiäppi tietosuojaseloste
