@@ -1,4 +1,4 @@
-# Tietosuojaseloste — Lintsiäppi
+# Tietosuojaseloste
 
 **Viimeksi päivitetty:** 6.5.2026
 
@@ -117,4 +117,4 @@ Selostetta voidaan päivittää, jos sovelluksen toiminnallisuus tai käytetyt p
 
 Tietosuojaa koskevissa kysymyksissä voit ottaa yhteyttä:
 
-- Sähköposti: [jukka.lepisto@krossflow.fi](mailto:jukka.lepisto@krossflow.fi)
+- Sähköposti: [mail@jukkalepisto.com](mailto:mail@jukkalepisto.com)
